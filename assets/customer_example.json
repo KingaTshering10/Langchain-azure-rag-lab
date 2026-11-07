@@ -1,0 +1,24 @@
+{
+  "example_only": true,
+  "customer_id": "DEMO-001",
+  "customer_profile": {
+    "employment_status": "Full-time",
+    "annual_income": 120000
+  },
+  "transaction_history": [
+    {
+      "type": "Salary Credit",
+      "amount": 10000,
+      "status": "Received"
+    },
+    {
+      "type": "Loan EMI",
+      "amount": 1200,
+      "status": "On-time"
+    }
+  ],
+  "external_factors": {
+    "existing_monthly_emi": 1200,
+    "currency": "Unspecified"
+  }
+}

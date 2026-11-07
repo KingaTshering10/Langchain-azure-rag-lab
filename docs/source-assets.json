@@ -1,0 +1,24 @@
+{
+  "source_archive": "8langchain(1).zip",
+  "byte_preserved_assets": [
+    {
+      "source_path": "HR_policy_manual.pdf",
+      "packaged_path": "assets/hr_policy_manual.pdf",
+      "bytes": 161629,
+      "sha256": "91193f7b16042d857b86ebdc0f1ce2adc901dd95ec27f868286b3200a00891f2"
+    },
+    {
+      "source_path": "rag-faiss/New York Brochure.pdf",
+      "packaged_path": "assets/new_york_brochure.pdf",
+      "bytes": 382414,
+      "sha256": "7157096a049777ad7e73697fda45c426e12b4d7fab6a6a5480670c4b4805e935"
+    },
+    {
+      "source_path": "rag-faiss/faiss vs milvus.docx",
+      "packaged_path": "docs/faiss_vs_milvus_original.docx",
+      "bytes": 18716,
+      "sha256": "4315bd80203f8b53f2438f1d68c5bd1f4a8d7e70be78a6b3fad5b6a5300f7a98"
+    }
+  ],
+  "new_practice_data": "assets/customer_example.json"
+}
