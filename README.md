@@ -1,0 +1,2 @@
+# Langchain-azure-rag-lab
+Hands-on LangChain labs with Azure OpenAI covering prompt templates, LCEL workflows, structured outputs, PDF question answering, FAISS persistence, and a Streamlit RAG app.
